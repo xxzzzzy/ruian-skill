@@ -55,7 +55,7 @@
 如果是 [Hermes Agent](https://github.com/nousresearch/hermes-agent)：
 ```bash
 # 下载
-git clone https://github.com/alchaincyf/ruian-skill.git ~/.hermes/skills/ruian-perspective
+git clone https://github.com/alchaincyf/ruian-skill.git ~/.hermes/skills/lian-ai
 ```
 
 如果使用其他框架（Claude、Cursor、GPT 等），将 `SKILL.md` 的内容作为 system prompt 或 skill 文件加载即可。
